@@ -1,0 +1,5801 @@
+﻿[
+  {
+    "Sid": "S1521415854572446203630734309168771001",
+    "Timestamp": "\/Date(1554830726482)\/",
+    "ItemList": [
+      {
+        "ItemType": "Win32_Processor",
+        "Properties": [
+          {
+            "Name": "AddressWidth1",
+            "Value": 64
+          },
+          {
+            "Name": "Architecture1",
+            "Value": 9
+          },
+          {
+            "Name": "AssetTag1",
+            "Value": "To Be Filled By O.E.M."
+          },
+          {
+            "Name": "Availability1",
+            "Value": 3
+          },
+          {
+            "Name": "Caption1",
+            "Value": "Intel64 Family 6 Model 78 Stepping 3"
+          },
+          {
+            "Name": "Characteristics1",
+            "Value": 252
+          },
+          {
+            "Name": "ConfigManagerErrorCode1",
+            "Value": null
+          },
+          {
+            "Name": "ConfigManagerUserConfig1",
+            "Value": null
+          },
+          {
+            "Name": "CpuStatus1",
+            "Value": 1
+          },
+          {
+            "Name": "CreationClassName1",
+            "Value": "Win32_Processor"
+          },
+          {
+            "Name": "CurrentClockSpeed1",
+            "Value": 2607
+          },
+          {
+            "Name": "CurrentVoltage1",
+            "Value": 9
+          },
+          {
+            "Name": "DataWidth1",
+            "Value": 64
+          },
+          {
+            "Name": "Description1",
+            "Value": "Intel64 Family 6 Model 78 Stepping 3"
+          },
+          {
+            "Name": "DeviceID1",
+            "Value": "CPU0"
+          },
+          {
+            "Name": "ErrorCleared1",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription1",
+            "Value": null
+          },
+          {
+            "Name": "ExtClock1",
+            "Value": 100
+          },
+          {
+            "Name": "Family1",
+            "Value": 198
+          },
+          {
+            "Name": "InstallDate1",
+            "Value": null
+          },
+          {
+            "Name": "L2CacheSize1",
+            "Value": 512
+          },
+          {
+            "Name": "L2CacheSpeed1",
+            "Value": null
+          },
+          {
+            "Name": "L3CacheSize1",
+            "Value": 4096
+          },
+          {
+            "Name": "L3CacheSpeed1",
+            "Value": 0
+          },
+          {
+            "Name": "LastErrorCode1",
+            "Value": null
+          },
+          {
+            "Name": "Level1",
+            "Value": 6
+          },
+          {
+            "Name": "LoadPercentage1",
+            "Value": 8
+          },
+          {
+            "Name": "Manufacturer1",
+            "Value": "GenuineIntel"
+          },
+          {
+            "Name": "MaxClockSpeed1",
+            "Value": 2808
+          },
+          {
+            "Name": "Name1",
+            "Value": "Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz"
+          },
+          {
+            "Name": "NumberOfCores1",
+            "Value": 2
+          },
+          {
+            "Name": "NumberOfEnabledCore1",
+            "Value": 2
+          },
+          {
+            "Name": "NumberOfLogicalProcessors1",
+            "Value": 4
+          },
+          {
+            "Name": "OtherFamilyDescription1",
+            "Value": null
+          },
+          {
+            "Name": "PartNumber1",
+            "Value": "To Be Filled By O.E.M."
+          },
+          {
+            "Name": "PNPDeviceID1",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementCapabilities1",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported1",
+            "Value": false
+          },
+          {
+            "Name": "ProcessorId1",
+            "Value": "BFEBFBFF000406E3"
+          },
+          {
+            "Name": "ProcessorType1",
+            "Value": 3
+          },
+          {
+            "Name": "Revision1",
+            "Value": 19971
+          },
+          {
+            "Name": "Role1",
+            "Value": "CPU"
+          },
+          {
+            "Name": "SecondLevelAddressTranslationExtensions1",
+            "Value": true
+          },
+          {
+            "Name": "SerialNumber1",
+            "Value": "To Be Filled By O.E.M."
+          },
+          {
+            "Name": "SocketDesignation1",
+            "Value": "U3E1"
+          },
+          {
+            "Name": "Status1",
+            "Value": "OK"
+          },
+          {
+            "Name": "StatusInfo1",
+            "Value": 3
+          },
+          {
+            "Name": "Stepping1",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName1",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName1",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "ThreadCount1",
+            "Value": 4
+          },
+          {
+            "Name": "UniqueId1",
+            "Value": null
+          },
+          {
+            "Name": "UpgradeMethod1",
+            "Value": 51
+          },
+          {
+            "Name": "Version1",
+            "Value": ""
+          },
+          {
+            "Name": "VirtualizationFirmwareEnabled1",
+            "Value": true
+          },
+          {
+            "Name": "VMMonitorModeExtensions1",
+            "Value": true
+          },
+          {
+            "Name": "VoltageCaps1",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_PhysicalMemory",
+        "Properties": [
+          {
+            "Name": "Attributes1",
+            "Value": 2
+          },
+          {
+            "Name": "BankLabel1",
+            "Value": "BANK 0"
+          },
+          {
+            "Name": "Capacity1",
+            "Value": 8589934592
+          },
+          {
+            "Name": "Caption1",
+            "Value": "Physikalischer Speicher"
+          },
+          {
+            "Name": "ConfiguredClockSpeed1",
+            "Value": 1867
+          },
+          {
+            "Name": "ConfiguredVoltage1",
+            "Value": 1200
+          },
+          {
+            "Name": "CreationClassName1",
+            "Value": "Win32_PhysicalMemory"
+          },
+          {
+            "Name": "DataWidth1",
+            "Value": 64
+          },
+          {
+            "Name": "Description1",
+            "Value": "Physikalischer Speicher"
+          },
+          {
+            "Name": "DeviceLocator1",
+            "Value": "ChannelA-DIMM0"
+          },
+          {
+            "Name": "FormFactor1",
+            "Value": 0
+          },
+          {
+            "Name": "HotSwappable1",
+            "Value": null
+          },
+          {
+            "Name": "InstallDate1",
+            "Value": null
+          },
+          {
+            "Name": "InterleaveDataDepth1",
+            "Value": null
+          },
+          {
+            "Name": "InterleavePosition1",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer1",
+            "Value": "Samsung"
+          },
+          {
+            "Name": "MaxVoltage1",
+            "Value": 0
+          },
+          {
+            "Name": "MemoryType1",
+            "Value": 0
+          },
+          {
+            "Name": "MinVoltage1",
+            "Value": 0
+          },
+          {
+            "Name": "Model1",
+            "Value": null
+          },
+          {
+            "Name": "Name1",
+            "Value": "Physikalischer Speicher"
+          },
+          {
+            "Name": "OtherIdentifyingInfo1",
+            "Value": null
+          },
+          {
+            "Name": "PartNumber1",
+            "Value": "                  "
+          },
+          {
+            "Name": "PositionInRow1",
+            "Value": null
+          },
+          {
+            "Name": "PoweredOn1",
+            "Value": null
+          },
+          {
+            "Name": "Removable1",
+            "Value": null
+          },
+          {
+            "Name": "Replaceable1",
+            "Value": null
+          },
+          {
+            "Name": "SerialNumber1",
+            "Value": "55000000"
+          },
+          {
+            "Name": "SKU1",
+            "Value": null
+          },
+          {
+            "Name": "SMBIOSMemoryType1",
+            "Value": 29
+          },
+          {
+            "Name": "Speed1",
+            "Value": 1867
+          },
+          {
+            "Name": "Status1",
+            "Value": null
+          },
+          {
+            "Name": "Tag1",
+            "Value": "Physical Memory 0"
+          },
+          {
+            "Name": "TotalWidth1",
+            "Value": 64
+          },
+          {
+            "Name": "TypeDetail1",
+            "Value": 16512
+          },
+          {
+            "Name": "Version1",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_PhysicalMemory",
+        "Properties": [
+          {
+            "Name": "Attributes2",
+            "Value": 2
+          },
+          {
+            "Name": "BankLabel2",
+            "Value": "BANK 2"
+          },
+          {
+            "Name": "Capacity2",
+            "Value": 8589934592
+          },
+          {
+            "Name": "Caption2",
+            "Value": "Physikalischer Speicher"
+          },
+          {
+            "Name": "ConfiguredClockSpeed2",
+            "Value": 1867
+          },
+          {
+            "Name": "ConfiguredVoltage2",
+            "Value": 1200
+          },
+          {
+            "Name": "CreationClassName2",
+            "Value": "Win32_PhysicalMemory"
+          },
+          {
+            "Name": "DataWidth2",
+            "Value": 64
+          },
+          {
+            "Name": "Description2",
+            "Value": "Physikalischer Speicher"
+          },
+          {
+            "Name": "DeviceLocator2",
+            "Value": "ChannelB-DIMM0"
+          },
+          {
+            "Name": "FormFactor2",
+            "Value": 0
+          },
+          {
+            "Name": "HotSwappable2",
+            "Value": null
+          },
+          {
+            "Name": "InstallDate2",
+            "Value": null
+          },
+          {
+            "Name": "InterleaveDataDepth2",
+            "Value": null
+          },
+          {
+            "Name": "InterleavePosition2",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer2",
+            "Value": "Samsung"
+          },
+          {
+            "Name": "MaxVoltage2",
+            "Value": 0
+          },
+          {
+            "Name": "MemoryType2",
+            "Value": 0
+          },
+          {
+            "Name": "MinVoltage2",
+            "Value": 0
+          },
+          {
+            "Name": "Model2",
+            "Value": null
+          },
+          {
+            "Name": "Name2",
+            "Value": "Physikalischer Speicher"
+          },
+          {
+            "Name": "OtherIdentifyingInfo2",
+            "Value": null
+          },
+          {
+            "Name": "PartNumber2",
+            "Value": "                  "
+          },
+          {
+            "Name": "PositionInRow2",
+            "Value": null
+          },
+          {
+            "Name": "PoweredOn2",
+            "Value": null
+          },
+          {
+            "Name": "Removable2",
+            "Value": null
+          },
+          {
+            "Name": "Replaceable2",
+            "Value": null
+          },
+          {
+            "Name": "SerialNumber2",
+            "Value": "55000000"
+          },
+          {
+            "Name": "SKU2",
+            "Value": null
+          },
+          {
+            "Name": "SMBIOSMemoryType2",
+            "Value": 29
+          },
+          {
+            "Name": "Speed2",
+            "Value": 1867
+          },
+          {
+            "Name": "Status2",
+            "Value": null
+          },
+          {
+            "Name": "Tag2",
+            "Value": "Physical Memory 1"
+          },
+          {
+            "Name": "TotalWidth2",
+            "Value": 64
+          },
+          {
+            "Name": "TypeDetail2",
+            "Value": 16512
+          },
+          {
+            "Name": "Version2",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType1",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId1",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense1",
+            "Value": null
+          },
+          {
+            "Name": "Availability1",
+            "Value": 3
+          },
+          {
+            "Name": "Caption1",
+            "Value": "[00000000] Microsoft Kernel Debug Network Adapter"
+          },
+          {
+            "Name": "ConfigManagerErrorCode1",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig1",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName1",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description1",
+            "Value": "Microsoft Kernel Debug Network Adapter"
+          },
+          {
+            "Name": "DeviceID1",
+            "Value": "0"
+          },
+          {
+            "Name": "ErrorCleared1",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription1",
+            "Value": null
+          },
+          {
+            "Name": "GUID1",
+            "Value": null
+          },
+          {
+            "Name": "Index1",
+            "Value": 0
+          },
+          {
+            "Name": "InstallDate1",
+            "Value": null
+          },
+          {
+            "Name": "Installed1",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex1",
+            "Value": 26
+          },
+          {
+            "Name": "LastErrorCode1",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress1",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer1",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled1",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed1",
+            "Value": null
+          },
+          {
+            "Name": "Name1",
+            "Value": "Microsoft Kernel Debug Network Adapter"
+          },
+          {
+            "Name": "NetConnectionID1",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus1",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled1",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses1",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress1",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter1",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID1",
+            "Value": "ROOT\\KDNIC\\0000"
+          },
+          {
+            "Name": "PowerManagementCapabilities1",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported1",
+            "Value": false
+          },
+          {
+            "Name": "ProductName1",
+            "Value": "Microsoft Kernel Debug Network Adapter"
+          },
+          {
+            "Name": "ServiceName1",
+            "Value": "kdnic"
+          },
+          {
+            "Name": "Speed1",
+            "Value": null
+          },
+          {
+            "Name": "Status1",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo1",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName1",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName1",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset1",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType2",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId2",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense2",
+            "Value": null
+          },
+          {
+            "Name": "Availability2",
+            "Value": 3
+          },
+          {
+            "Name": "Caption2",
+            "Value": "[00000001] Marvell AVASTAR Wireless-AC Network Controller"
+          },
+          {
+            "Name": "ConfigManagerErrorCode2",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig2",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName2",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description2",
+            "Value": "Marvell AVASTAR Wireless-AC Network Controller"
+          },
+          {
+            "Name": "DeviceID2",
+            "Value": "1"
+          },
+          {
+            "Name": "ErrorCleared2",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription2",
+            "Value": null
+          },
+          {
+            "Name": "GUID2",
+            "Value": "{B967CFDE-54E3-4952-8674-334DAEB3BA6C}"
+          },
+          {
+            "Name": "Index2",
+            "Value": 1
+          },
+          {
+            "Name": "InstallDate2",
+            "Value": null
+          },
+          {
+            "Name": "Installed2",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex2",
+            "Value": 23
+          },
+          {
+            "Name": "LastErrorCode2",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress2",
+            "Value": "BC:83:85:CF:19:F1"
+          },
+          {
+            "Name": "Manufacturer2",
+            "Value": "Marvell Semiconductor, Inc."
+          },
+          {
+            "Name": "MaxNumberControlled2",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed2",
+            "Value": null
+          },
+          {
+            "Name": "Name2",
+            "Value": "Marvell AVASTAR Wireless-AC Network Controller"
+          },
+          {
+            "Name": "NetConnectionID2",
+            "Value": "WLAN"
+          },
+          {
+            "Name": "NetConnectionStatus2",
+            "Value": 2
+          },
+          {
+            "Name": "NetEnabled2",
+            "Value": true
+          },
+          {
+            "Name": "NetworkAddresses2",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress2",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter2",
+            "Value": true
+          },
+          {
+            "Name": "PNPDeviceID2",
+            "Value": "PCI\\VEN_11AB\u0026DEV_2B38\u0026SUBSYS_045E0004\u0026REV_00\\4\u00261A5036A5\u00260\u002600EB"
+          },
+          {
+            "Name": "PowerManagementCapabilities2",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported2",
+            "Value": false
+          },
+          {
+            "Name": "ProductName2",
+            "Value": "Marvell AVASTAR Wireless-AC Network Controller"
+          },
+          {
+            "Name": "ServiceName2",
+            "Value": "mrvlpcie8897"
+          },
+          {
+            "Name": "Speed2",
+            "Value": 526500000
+          },
+          {
+            "Name": "Status2",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo2",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName2",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName2",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset2",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType3",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId3",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense3",
+            "Value": null
+          },
+          {
+            "Name": "Availability3",
+            "Value": 3
+          },
+          {
+            "Name": "Caption3",
+            "Value": "[00000002] Microsoft Wi-Fi Direct Virtual Adapter"
+          },
+          {
+            "Name": "ConfigManagerErrorCode3",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig3",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName3",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description3",
+            "Value": "Microsoft Wi-Fi Direct Virtual Adapter"
+          },
+          {
+            "Name": "DeviceID3",
+            "Value": "2"
+          },
+          {
+            "Name": "ErrorCleared3",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription3",
+            "Value": null
+          },
+          {
+            "Name": "GUID3",
+            "Value": null
+          },
+          {
+            "Name": "Index3",
+            "Value": 2
+          },
+          {
+            "Name": "InstallDate3",
+            "Value": null
+          },
+          {
+            "Name": "Installed3",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex3",
+            "Value": 15
+          },
+          {
+            "Name": "LastErrorCode3",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress3",
+            "Value": "BE:83:85:CF:18:F0"
+          },
+          {
+            "Name": "Manufacturer3",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled3",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed3",
+            "Value": null
+          },
+          {
+            "Name": "Name3",
+            "Value": "Microsoft Wi-Fi Direct Virtual Adapter"
+          },
+          {
+            "Name": "NetConnectionID3",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus3",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled3",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses3",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress3",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter3",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID3",
+            "Value": "{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\\VWIFIMP_WFD\\5\u00262872636\u00260\u002611"
+          },
+          {
+            "Name": "PowerManagementCapabilities3",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported3",
+            "Value": false
+          },
+          {
+            "Name": "ProductName3",
+            "Value": "Microsoft Wi-Fi Direct Virtual Adapter"
+          },
+          {
+            "Name": "ServiceName3",
+            "Value": "vwifimp"
+          },
+          {
+            "Name": "Speed3",
+            "Value": 9223372036854775807
+          },
+          {
+            "Name": "Status3",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo3",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName3",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName3",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset3",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType4",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId4",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense4",
+            "Value": null
+          },
+          {
+            "Name": "Availability4",
+            "Value": 3
+          },
+          {
+            "Name": "Caption4",
+            "Value": "[00000003] Bluetooth Device (RFCOMM Protocol TDI)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode4",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig4",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName4",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description4",
+            "Value": "Bluetooth Device (RFCOMM Protocol TDI)"
+          },
+          {
+            "Name": "DeviceID4",
+            "Value": "3"
+          },
+          {
+            "Name": "ErrorCleared4",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription4",
+            "Value": null
+          },
+          {
+            "Name": "GUID4",
+            "Value": null
+          },
+          {
+            "Name": "Index4",
+            "Value": 3
+          },
+          {
+            "Name": "InstallDate4",
+            "Value": null
+          },
+          {
+            "Name": "Installed4",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex4",
+            "Value": 11
+          },
+          {
+            "Name": "LastErrorCode4",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress4",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer4",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled4",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed4",
+            "Value": null
+          },
+          {
+            "Name": "Name4",
+            "Value": "Bluetooth Device (RFCOMM Protocol TDI)"
+          },
+          {
+            "Name": "NetConnectionID4",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus4",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled4",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses4",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress4",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter4",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID4",
+            "Value": "BTH\\MS_RFCOMM\\6\u0026E3528ED\u00260\u00260"
+          },
+          {
+            "Name": "PowerManagementCapabilities4",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported4",
+            "Value": false
+          },
+          {
+            "Name": "ProductName4",
+            "Value": "Bluetooth Device (RFCOMM Protocol TDI)"
+          },
+          {
+            "Name": "ServiceName4",
+            "Value": "RFCOMM"
+          },
+          {
+            "Name": "Speed4",
+            "Value": null
+          },
+          {
+            "Name": "Status4",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo4",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName4",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName4",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset4",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType5",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId5",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense5",
+            "Value": null
+          },
+          {
+            "Name": "Availability5",
+            "Value": 3
+          },
+          {
+            "Name": "Caption5",
+            "Value": "[00000004] Bluetooth Device (Personal Area Network)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode5",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig5",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName5",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description5",
+            "Value": "Bluetooth Device (Personal Area Network)"
+          },
+          {
+            "Name": "DeviceID5",
+            "Value": "4"
+          },
+          {
+            "Name": "ErrorCleared5",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription5",
+            "Value": null
+          },
+          {
+            "Name": "GUID5",
+            "Value": "{347FED41-A046-4BCB-A289-4A33EC438715}"
+          },
+          {
+            "Name": "Index5",
+            "Value": 4
+          },
+          {
+            "Name": "InstallDate5",
+            "Value": null
+          },
+          {
+            "Name": "Installed5",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex5",
+            "Value": 10
+          },
+          {
+            "Name": "LastErrorCode5",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress5",
+            "Value": "BC:83:85:CF:19:F2"
+          },
+          {
+            "Name": "Manufacturer5",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled5",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed5",
+            "Value": null
+          },
+          {
+            "Name": "Name5",
+            "Value": "Bluetooth Device (Personal Area Network) #2"
+          },
+          {
+            "Name": "NetConnectionID5",
+            "Value": "Bluetooth-Netzwerkverbindung 2"
+          },
+          {
+            "Name": "NetConnectionStatus5",
+            "Value": 7
+          },
+          {
+            "Name": "NetEnabled5",
+            "Value": false
+          },
+          {
+            "Name": "NetworkAddresses5",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress5",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter5",
+            "Value": true
+          },
+          {
+            "Name": "PNPDeviceID5",
+            "Value": "BTH\\MS_BTHPAN\\6\u0026E3528ED\u00260\u00262"
+          },
+          {
+            "Name": "PowerManagementCapabilities5",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported5",
+            "Value": false
+          },
+          {
+            "Name": "ProductName5",
+            "Value": "Bluetooth Device (Personal Area Network)"
+          },
+          {
+            "Name": "ServiceName5",
+            "Value": "BthPan"
+          },
+          {
+            "Name": "Speed5",
+            "Value": 3000000
+          },
+          {
+            "Name": "Status5",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo5",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName5",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName5",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset5",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType6",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId6",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense6",
+            "Value": null
+          },
+          {
+            "Name": "Availability6",
+            "Value": 3
+          },
+          {
+            "Name": "Caption6",
+            "Value": "[00000005] Microsoft Wi-Fi Direct Virtual Adapter"
+          },
+          {
+            "Name": "ConfigManagerErrorCode6",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig6",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName6",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description6",
+            "Value": "Microsoft Wi-Fi Direct Virtual Adapter"
+          },
+          {
+            "Name": "DeviceID6",
+            "Value": "5"
+          },
+          {
+            "Name": "ErrorCleared6",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription6",
+            "Value": null
+          },
+          {
+            "Name": "GUID6",
+            "Value": null
+          },
+          {
+            "Name": "Index6",
+            "Value": 5
+          },
+          {
+            "Name": "InstallDate6",
+            "Value": null
+          },
+          {
+            "Name": "Installed6",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex6",
+            "Value": 2
+          },
+          {
+            "Name": "LastErrorCode6",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress6",
+            "Value": "BE:83:85:CF:1D:F0"
+          },
+          {
+            "Name": "Manufacturer6",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled6",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed6",
+            "Value": null
+          },
+          {
+            "Name": "Name6",
+            "Value": "Microsoft Wi-Fi Direct Virtual Adapter #3"
+          },
+          {
+            "Name": "NetConnectionID6",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus6",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled6",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses6",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress6",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter6",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID6",
+            "Value": "{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\\VWIFIMP_WFD\\5\u00262872636\u00260\u002612"
+          },
+          {
+            "Name": "PowerManagementCapabilities6",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported6",
+            "Value": false
+          },
+          {
+            "Name": "ProductName6",
+            "Value": "Microsoft Wi-Fi Direct Virtual Adapter"
+          },
+          {
+            "Name": "ServiceName6",
+            "Value": "vwifimp"
+          },
+          {
+            "Name": "Speed6",
+            "Value": 9223372036854775807
+          },
+          {
+            "Name": "Status6",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo6",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName6",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName6",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset6",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType7",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId7",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense7",
+            "Value": null
+          },
+          {
+            "Name": "Availability7",
+            "Value": 3
+          },
+          {
+            "Name": "Caption7",
+            "Value": "[00000006] WAN Miniport (SSTP)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode7",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig7",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName7",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description7",
+            "Value": "WAN Miniport (SSTP)"
+          },
+          {
+            "Name": "DeviceID7",
+            "Value": "6"
+          },
+          {
+            "Name": "ErrorCleared7",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription7",
+            "Value": null
+          },
+          {
+            "Name": "GUID7",
+            "Value": null
+          },
+          {
+            "Name": "Index7",
+            "Value": 6
+          },
+          {
+            "Name": "InstallDate7",
+            "Value": null
+          },
+          {
+            "Name": "Installed7",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex7",
+            "Value": 3
+          },
+          {
+            "Name": "LastErrorCode7",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress7",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer7",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled7",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed7",
+            "Value": null
+          },
+          {
+            "Name": "Name7",
+            "Value": "WAN Miniport (SSTP)"
+          },
+          {
+            "Name": "NetConnectionID7",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus7",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled7",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses7",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress7",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter7",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID7",
+            "Value": "SWD\\MSRRAS\\MS_SSTPMINIPORT"
+          },
+          {
+            "Name": "PowerManagementCapabilities7",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported7",
+            "Value": false
+          },
+          {
+            "Name": "ProductName7",
+            "Value": "WAN Miniport (SSTP)"
+          },
+          {
+            "Name": "ServiceName7",
+            "Value": "RasSstp"
+          },
+          {
+            "Name": "Speed7",
+            "Value": null
+          },
+          {
+            "Name": "Status7",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo7",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName7",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName7",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset7",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType8",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId8",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense8",
+            "Value": null
+          },
+          {
+            "Name": "Availability8",
+            "Value": 3
+          },
+          {
+            "Name": "Caption8",
+            "Value": "[00000007] WAN Miniport (IKEv2)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode8",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig8",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName8",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description8",
+            "Value": "WAN Miniport (IKEv2)"
+          },
+          {
+            "Name": "DeviceID8",
+            "Value": "7"
+          },
+          {
+            "Name": "ErrorCleared8",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription8",
+            "Value": null
+          },
+          {
+            "Name": "GUID8",
+            "Value": null
+          },
+          {
+            "Name": "Index8",
+            "Value": 7
+          },
+          {
+            "Name": "InstallDate8",
+            "Value": null
+          },
+          {
+            "Name": "Installed8",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex8",
+            "Value": 6
+          },
+          {
+            "Name": "LastErrorCode8",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress8",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer8",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled8",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed8",
+            "Value": null
+          },
+          {
+            "Name": "Name8",
+            "Value": "WAN Miniport (IKEv2)"
+          },
+          {
+            "Name": "NetConnectionID8",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus8",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled8",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses8",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress8",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter8",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID8",
+            "Value": "SWD\\MSRRAS\\MS_AGILEVPNMINIPORT"
+          },
+          {
+            "Name": "PowerManagementCapabilities8",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported8",
+            "Value": false
+          },
+          {
+            "Name": "ProductName8",
+            "Value": "WAN Miniport (IKEv2)"
+          },
+          {
+            "Name": "ServiceName8",
+            "Value": "RasAgileVpn"
+          },
+          {
+            "Name": "Speed8",
+            "Value": null
+          },
+          {
+            "Name": "Status8",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo8",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName8",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName8",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset8",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType9",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId9",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense9",
+            "Value": null
+          },
+          {
+            "Name": "Availability9",
+            "Value": 3
+          },
+          {
+            "Name": "Caption9",
+            "Value": "[00000008] WAN Miniport (L2TP)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode9",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig9",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName9",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description9",
+            "Value": "WAN Miniport (L2TP)"
+          },
+          {
+            "Name": "DeviceID9",
+            "Value": "8"
+          },
+          {
+            "Name": "ErrorCleared9",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription9",
+            "Value": null
+          },
+          {
+            "Name": "GUID9",
+            "Value": null
+          },
+          {
+            "Name": "Index9",
+            "Value": 8
+          },
+          {
+            "Name": "InstallDate9",
+            "Value": null
+          },
+          {
+            "Name": "Installed9",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex9",
+            "Value": 21
+          },
+          {
+            "Name": "LastErrorCode9",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress9",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer9",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled9",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed9",
+            "Value": null
+          },
+          {
+            "Name": "Name9",
+            "Value": "WAN Miniport (L2TP)"
+          },
+          {
+            "Name": "NetConnectionID9",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus9",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled9",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses9",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress9",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter9",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID9",
+            "Value": "SWD\\MSRRAS\\MS_L2TPMINIPORT"
+          },
+          {
+            "Name": "PowerManagementCapabilities9",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported9",
+            "Value": false
+          },
+          {
+            "Name": "ProductName9",
+            "Value": "WAN Miniport (L2TP)"
+          },
+          {
+            "Name": "ServiceName9",
+            "Value": "Rasl2tp"
+          },
+          {
+            "Name": "Speed9",
+            "Value": null
+          },
+          {
+            "Name": "Status9",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo9",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName9",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName9",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset9",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType10",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId10",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense10",
+            "Value": null
+          },
+          {
+            "Name": "Availability10",
+            "Value": 3
+          },
+          {
+            "Name": "Caption10",
+            "Value": "[00000009] WAN Miniport (PPTP)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode10",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig10",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName10",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description10",
+            "Value": "WAN Miniport (PPTP)"
+          },
+          {
+            "Name": "DeviceID10",
+            "Value": "9"
+          },
+          {
+            "Name": "ErrorCleared10",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription10",
+            "Value": null
+          },
+          {
+            "Name": "GUID10",
+            "Value": null
+          },
+          {
+            "Name": "Index10",
+            "Value": 9
+          },
+          {
+            "Name": "InstallDate10",
+            "Value": null
+          },
+          {
+            "Name": "Installed10",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex10",
+            "Value": 19
+          },
+          {
+            "Name": "LastErrorCode10",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress10",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer10",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled10",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed10",
+            "Value": null
+          },
+          {
+            "Name": "Name10",
+            "Value": "WAN Miniport (PPTP)"
+          },
+          {
+            "Name": "NetConnectionID10",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus10",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled10",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses10",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress10",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter10",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID10",
+            "Value": "SWD\\MSRRAS\\MS_PPTPMINIPORT"
+          },
+          {
+            "Name": "PowerManagementCapabilities10",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported10",
+            "Value": false
+          },
+          {
+            "Name": "ProductName10",
+            "Value": "WAN Miniport (PPTP)"
+          },
+          {
+            "Name": "ServiceName10",
+            "Value": "PptpMiniport"
+          },
+          {
+            "Name": "Speed10",
+            "Value": null
+          },
+          {
+            "Name": "Status10",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo10",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName10",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName10",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset10",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType11",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId11",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense11",
+            "Value": null
+          },
+          {
+            "Name": "Availability11",
+            "Value": 3
+          },
+          {
+            "Name": "Caption11",
+            "Value": "[00000010] WAN Miniport (PPPOE)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode11",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig11",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName11",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description11",
+            "Value": "WAN Miniport (PPPOE)"
+          },
+          {
+            "Name": "DeviceID11",
+            "Value": "10"
+          },
+          {
+            "Name": "ErrorCleared11",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription11",
+            "Value": null
+          },
+          {
+            "Name": "GUID11",
+            "Value": null
+          },
+          {
+            "Name": "Index11",
+            "Value": 10
+          },
+          {
+            "Name": "InstallDate11",
+            "Value": null
+          },
+          {
+            "Name": "Installed11",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex11",
+            "Value": 5
+          },
+          {
+            "Name": "LastErrorCode11",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress11",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer11",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled11",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed11",
+            "Value": null
+          },
+          {
+            "Name": "Name11",
+            "Value": "WAN Miniport (PPPOE)"
+          },
+          {
+            "Name": "NetConnectionID11",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus11",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled11",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses11",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress11",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter11",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID11",
+            "Value": "SWD\\MSRRAS\\MS_PPPOEMINIPORT"
+          },
+          {
+            "Name": "PowerManagementCapabilities11",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported11",
+            "Value": false
+          },
+          {
+            "Name": "ProductName11",
+            "Value": "WAN Miniport (PPPOE)"
+          },
+          {
+            "Name": "ServiceName11",
+            "Value": "RasPppoe"
+          },
+          {
+            "Name": "Speed11",
+            "Value": null
+          },
+          {
+            "Name": "Status11",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo11",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName11",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName11",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset11",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType12",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId12",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense12",
+            "Value": null
+          },
+          {
+            "Name": "Availability12",
+            "Value": 3
+          },
+          {
+            "Name": "Caption12",
+            "Value": "[00000011] WAN Miniport (IP)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode12",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig12",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName12",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description12",
+            "Value": "WAN Miniport (IP)"
+          },
+          {
+            "Name": "DeviceID12",
+            "Value": "11"
+          },
+          {
+            "Name": "ErrorCleared12",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription12",
+            "Value": null
+          },
+          {
+            "Name": "GUID12",
+            "Value": null
+          },
+          {
+            "Name": "Index12",
+            "Value": 11
+          },
+          {
+            "Name": "InstallDate12",
+            "Value": null
+          },
+          {
+            "Name": "Installed12",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex12",
+            "Value": 27
+          },
+          {
+            "Name": "LastErrorCode12",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress12",
+            "Value": "BA:7A:20:52:41:53"
+          },
+          {
+            "Name": "Manufacturer12",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled12",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed12",
+            "Value": null
+          },
+          {
+            "Name": "Name12",
+            "Value": "WAN Miniport (IP)"
+          },
+          {
+            "Name": "NetConnectionID12",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus12",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled12",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses12",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress12",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter12",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID12",
+            "Value": "SWD\\MSRRAS\\MS_NDISWANIP"
+          },
+          {
+            "Name": "PowerManagementCapabilities12",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported12",
+            "Value": false
+          },
+          {
+            "Name": "ProductName12",
+            "Value": "WAN Miniport (IP)"
+          },
+          {
+            "Name": "ServiceName12",
+            "Value": "NdisWan"
+          },
+          {
+            "Name": "Speed12",
+            "Value": null
+          },
+          {
+            "Name": "Status12",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo12",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName12",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName12",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset12",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType13",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId13",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense13",
+            "Value": null
+          },
+          {
+            "Name": "Availability13",
+            "Value": 3
+          },
+          {
+            "Name": "Caption13",
+            "Value": "[00000012] WAN Miniport (IPv6)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode13",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig13",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName13",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description13",
+            "Value": "WAN Miniport (IPv6)"
+          },
+          {
+            "Name": "DeviceID13",
+            "Value": "12"
+          },
+          {
+            "Name": "ErrorCleared13",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription13",
+            "Value": null
+          },
+          {
+            "Name": "GUID13",
+            "Value": null
+          },
+          {
+            "Name": "Index13",
+            "Value": 12
+          },
+          {
+            "Name": "InstallDate13",
+            "Value": null
+          },
+          {
+            "Name": "Installed13",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex13",
+            "Value": 20
+          },
+          {
+            "Name": "LastErrorCode13",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress13",
+            "Value": "D6:93:20:52:41:53"
+          },
+          {
+            "Name": "Manufacturer13",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled13",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed13",
+            "Value": null
+          },
+          {
+            "Name": "Name13",
+            "Value": "WAN Miniport (IPv6)"
+          },
+          {
+            "Name": "NetConnectionID13",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus13",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled13",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses13",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress13",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter13",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID13",
+            "Value": "SWD\\MSRRAS\\MS_NDISWANIPV6"
+          },
+          {
+            "Name": "PowerManagementCapabilities13",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported13",
+            "Value": false
+          },
+          {
+            "Name": "ProductName13",
+            "Value": "WAN Miniport (IPv6)"
+          },
+          {
+            "Name": "ServiceName13",
+            "Value": "NdisWan"
+          },
+          {
+            "Name": "Speed13",
+            "Value": null
+          },
+          {
+            "Name": "Status13",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo13",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName13",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName13",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset13",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType14",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId14",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense14",
+            "Value": null
+          },
+          {
+            "Name": "Availability14",
+            "Value": 3
+          },
+          {
+            "Name": "Caption14",
+            "Value": "[00000013] WAN Miniport (Network Monitor)"
+          },
+          {
+            "Name": "ConfigManagerErrorCode14",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig14",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName14",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description14",
+            "Value": "WAN Miniport (Network Monitor)"
+          },
+          {
+            "Name": "DeviceID14",
+            "Value": "13"
+          },
+          {
+            "Name": "ErrorCleared14",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription14",
+            "Value": null
+          },
+          {
+            "Name": "GUID14",
+            "Value": null
+          },
+          {
+            "Name": "Index14",
+            "Value": 13
+          },
+          {
+            "Name": "InstallDate14",
+            "Value": null
+          },
+          {
+            "Name": "Installed14",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex14",
+            "Value": 24
+          },
+          {
+            "Name": "LastErrorCode14",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress14",
+            "Value": "E4:BD:20:52:41:53"
+          },
+          {
+            "Name": "Manufacturer14",
+            "Value": "Microsoft"
+          },
+          {
+            "Name": "MaxNumberControlled14",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed14",
+            "Value": null
+          },
+          {
+            "Name": "Name14",
+            "Value": "WAN Miniport (Network Monitor)"
+          },
+          {
+            "Name": "NetConnectionID14",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus14",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled14",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses14",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress14",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter14",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID14",
+            "Value": "SWD\\MSRRAS\\MS_NDISWANBH"
+          },
+          {
+            "Name": "PowerManagementCapabilities14",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported14",
+            "Value": false
+          },
+          {
+            "Name": "ProductName14",
+            "Value": "WAN Miniport (Network Monitor)"
+          },
+          {
+            "Name": "ServiceName14",
+            "Value": "NdisWan"
+          },
+          {
+            "Name": "Speed14",
+            "Value": null
+          },
+          {
+            "Name": "Status14",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo14",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName14",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName14",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset14",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType15",
+            "Value": "Ethernet 802.3"
+          },
+          {
+            "Name": "AdapterTypeId15",
+            "Value": 0
+          },
+          {
+            "Name": "AutoSense15",
+            "Value": null
+          },
+          {
+            "Name": "Availability15",
+            "Value": 3
+          },
+          {
+            "Name": "Caption15",
+            "Value": "[00000014] VirtualBox Host-Only Ethernet Adapter"
+          },
+          {
+            "Name": "ConfigManagerErrorCode15",
+            "Value": 0
+          },
+          {
+            "Name": "ConfigManagerUserConfig15",
+            "Value": false
+          },
+          {
+            "Name": "CreationClassName15",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description15",
+            "Value": "VirtualBox Host-Only Ethernet Adapter"
+          },
+          {
+            "Name": "DeviceID15",
+            "Value": "14"
+          },
+          {
+            "Name": "ErrorCleared15",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription15",
+            "Value": null
+          },
+          {
+            "Name": "GUID15",
+            "Value": "{C2901C9E-0CBB-4890-813E-9C499BF7F723}"
+          },
+          {
+            "Name": "Index15",
+            "Value": 14
+          },
+          {
+            "Name": "InstallDate15",
+            "Value": null
+          },
+          {
+            "Name": "Installed15",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex15",
+            "Value": 25
+          },
+          {
+            "Name": "LastErrorCode15",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress15",
+            "Value": "0A:00:27:00:00:19"
+          },
+          {
+            "Name": "Manufacturer15",
+            "Value": "Oracle Corporation"
+          },
+          {
+            "Name": "MaxNumberControlled15",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed15",
+            "Value": null
+          },
+          {
+            "Name": "Name15",
+            "Value": "VirtualBox Host-Only Ethernet Adapter #2"
+          },
+          {
+            "Name": "NetConnectionID15",
+            "Value": "VirtualBox Host-Only Network #2"
+          },
+          {
+            "Name": "NetConnectionStatus15",
+            "Value": 2
+          },
+          {
+            "Name": "NetEnabled15",
+            "Value": true
+          },
+          {
+            "Name": "NetworkAddresses15",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress15",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter15",
+            "Value": true
+          },
+          {
+            "Name": "PNPDeviceID15",
+            "Value": "ROOT\\NET\\0000"
+          },
+          {
+            "Name": "PowerManagementCapabilities15",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported15",
+            "Value": false
+          },
+          {
+            "Name": "ProductName15",
+            "Value": "VirtualBox Host-Only Ethernet Adapter"
+          },
+          {
+            "Name": "ServiceName15",
+            "Value": "VBoxNetAdp"
+          },
+          {
+            "Name": "Speed15",
+            "Value": 1000000000
+          },
+          {
+            "Name": "Status15",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo15",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName15",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName15",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset15",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType16",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId16",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense16",
+            "Value": null
+          },
+          {
+            "Name": "Availability16",
+            "Value": 3
+          },
+          {
+            "Name": "Caption16",
+            "Value": "[00000015] ASIX AX88179 USB 3.0 to Gigabit Ethernet Adapter"
+          },
+          {
+            "Name": "ConfigManagerErrorCode16",
+            "Value": null
+          },
+          {
+            "Name": "ConfigManagerUserConfig16",
+            "Value": null
+          },
+          {
+            "Name": "CreationClassName16",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description16",
+            "Value": "ASIX AX88179 USB 3.0 to Gigabit Ethernet Adapter"
+          },
+          {
+            "Name": "DeviceID16",
+            "Value": "15"
+          },
+          {
+            "Name": "ErrorCleared16",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription16",
+            "Value": null
+          },
+          {
+            "Name": "GUID16",
+            "Value": null
+          },
+          {
+            "Name": "Index16",
+            "Value": 15
+          },
+          {
+            "Name": "InstallDate16",
+            "Value": null
+          },
+          {
+            "Name": "Installed16",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex16",
+            "Value": 14
+          },
+          {
+            "Name": "LastErrorCode16",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress16",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer16",
+            "Value": null
+          },
+          {
+            "Name": "MaxNumberControlled16",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed16",
+            "Value": null
+          },
+          {
+            "Name": "Name16",
+            "Value": "ASIX AX88179 USB 3.0 to Gigabit Ethernet Adapter"
+          },
+          {
+            "Name": "NetConnectionID16",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus16",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled16",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses16",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress16",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter16",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID16",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementCapabilities16",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported16",
+            "Value": false
+          },
+          {
+            "Name": "ProductName16",
+            "Value": "ASIX AX88179 USB 3.0 to Gigabit Ethernet Adapter"
+          },
+          {
+            "Name": "ServiceName16",
+            "Value": null
+          },
+          {
+            "Name": "Speed16",
+            "Value": null
+          },
+          {
+            "Name": "Status16",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo16",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName16",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName16",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset16",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Win32_NetworkAdapter",
+        "Properties": [
+          {
+            "Name": "AdapterType17",
+            "Value": null
+          },
+          {
+            "Name": "AdapterTypeId17",
+            "Value": null
+          },
+          {
+            "Name": "AutoSense17",
+            "Value": null
+          },
+          {
+            "Name": "Availability17",
+            "Value": 3
+          },
+          {
+            "Name": "Caption17",
+            "Value": "[00000016] Surface Ethernet Adapter"
+          },
+          {
+            "Name": "ConfigManagerErrorCode17",
+            "Value": null
+          },
+          {
+            "Name": "ConfigManagerUserConfig17",
+            "Value": null
+          },
+          {
+            "Name": "CreationClassName17",
+            "Value": "Win32_NetworkAdapter"
+          },
+          {
+            "Name": "Description17",
+            "Value": "Surface Ethernet Adapter"
+          },
+          {
+            "Name": "DeviceID17",
+            "Value": "16"
+          },
+          {
+            "Name": "ErrorCleared17",
+            "Value": null
+          },
+          {
+            "Name": "ErrorDescription17",
+            "Value": null
+          },
+          {
+            "Name": "GUID17",
+            "Value": null
+          },
+          {
+            "Name": "Index17",
+            "Value": 16
+          },
+          {
+            "Name": "InstallDate17",
+            "Value": null
+          },
+          {
+            "Name": "Installed17",
+            "Value": true
+          },
+          {
+            "Name": "InterfaceIndex17",
+            "Value": 16
+          },
+          {
+            "Name": "LastErrorCode17",
+            "Value": null
+          },
+          {
+            "Name": "MACAddress17",
+            "Value": null
+          },
+          {
+            "Name": "Manufacturer17",
+            "Value": null
+          },
+          {
+            "Name": "MaxNumberControlled17",
+            "Value": 0
+          },
+          {
+            "Name": "MaxSpeed17",
+            "Value": null
+          },
+          {
+            "Name": "Name17",
+            "Value": "Surface Ethernet Adapter"
+          },
+          {
+            "Name": "NetConnectionID17",
+            "Value": null
+          },
+          {
+            "Name": "NetConnectionStatus17",
+            "Value": null
+          },
+          {
+            "Name": "NetEnabled17",
+            "Value": null
+          },
+          {
+            "Name": "NetworkAddresses17",
+            "Value": null
+          },
+          {
+            "Name": "PermanentAddress17",
+            "Value": null
+          },
+          {
+            "Name": "PhysicalAdapter17",
+            "Value": false
+          },
+          {
+            "Name": "PNPDeviceID17",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementCapabilities17",
+            "Value": null
+          },
+          {
+            "Name": "PowerManagementSupported17",
+            "Value": false
+          },
+          {
+            "Name": "ProductName17",
+            "Value": "Surface Ethernet Adapter"
+          },
+          {
+            "Name": "ServiceName17",
+            "Value": null
+          },
+          {
+            "Name": "Speed17",
+            "Value": null
+          },
+          {
+            "Name": "Status17",
+            "Value": null
+          },
+          {
+            "Name": "StatusInfo17",
+            "Value": null
+          },
+          {
+            "Name": "SystemCreationClassName17",
+            "Value": "Win32_ComputerSystem"
+          },
+          {
+            "Name": "SystemName17",
+            "Value": "SURFACE"
+          },
+          {
+            "Name": "TimeOfLastReset17",
+            "Value": "20190321085118.605303+060"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name1",
+            "Value": "Steuer Appenzell Ausserrhoden 2017 nP 1.2.0"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name2",
+            "Value": "Visual Studio Enterprise 2017"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name3",
+            "Value": "Audacity 2.3.0"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name4",
+            "Value": "Citrix Receiver 4.9"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name5",
+            "Value": "Dropbox"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name6",
+            "Value": "Microsoft Expression Encoder 4"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name7",
+            "Value": "FileZilla Client 3.41.2"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name8",
+            "Value": "Google Chrome"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name9",
+            "Value": "HandBrake 1.2.0"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name10",
+            "Value": "Heroku CLI"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name11",
+            "Value": "HxD Hex Editor Version 1.7.7.0"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name12",
+            "Value": "Inkscape 0.92.3"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name13",
+            "Value": "IntelliJ IDEA 2018.3"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name14",
+            "Value": "KeePass Password Safe 2.41"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name15",
+            "Value": "Mozilla Thunderbird 60.6.1 (x86 de)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name16",
+            "Value": "Mozilla Maintenance Service"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name17",
+            "Value": "MusicBee 3.0"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name18",
+            "Value": "No-IP DUC"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name19",
+            "Value": "NVIDIA Stereoscopic 3D Driver"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name20",
+            "Value": "OBS Studio"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name21",
+            "Value": "Opera Stable 58.0.3135.127"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name22",
+            "Value": "Steam"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name23",
+            "Value": "Stronghold Crusader HD"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name24",
+            "Value": "TrueCrypt"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name25",
+            "Value": "Unity"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name26",
+            "Value": "Uplay"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name27",
+            "Value": "Watch_Dogs"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name28",
+            "Value": "Anno 1602"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name29",
+            "Value": "VLC media player"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name30",
+            "Value": "WinPcap 4.1.3"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name31",
+            "Value": "Wireshark 2.6.5 64-bit"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name32",
+            "Value": "XAMPP"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name33",
+            "Value": "Intel(R) Wireless Bluetooth(R)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name34",
+            "Value": "WinRT Intellisense UAP - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name35",
+            "Value": "WinRT Intellisense Desktop - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name36",
+            "Value": "Microsoft_VC90_ATL_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name37",
+            "Value": "vs_cuitcommoncoremsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name38",
+            "Value": "Microsoft .NET Core SDK - 2.1.202 (x64)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name39",
+            "Value": "Windows SDK for Windows Store Apps Headers"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name40",
+            "Value": "Microsoft_VC90_CRT_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name41",
+            "Value": "Dropbox Update Helper"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name42",
+            "Value": "SDK ARM Additions"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name43",
+            "Value": "vs_minshellmsires"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name44",
+            "Value": "Microsoft_VC80_ATL_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name45",
+            "Value": "ScanSnap Manager"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name46",
+            "Value": "Microsoft .NET Core SDK 2.1.504 (x64)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name47",
+            "Value": "SD Card Formatter"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name48",
+            "Value": "Windows IoT Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name49",
+            "Value": "Microsoft .NET CoreRuntime SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name50",
+            "Value": "Microsoft UniversalWindowsPlatform SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name51",
+            "Value": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name52",
+            "Value": " Tools for .Net 3.5 - DEU Lang Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name53",
+            "Value": "Microsoft .NET Native SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name54",
+            "Value": " Tools for .Net 3.5"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name55",
+            "Value": "vs_cuitextensionmsi_x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name56",
+            "Value": "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name57",
+            "Value": "vs_tipsmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name58",
+            "Value": "Microsoft Visual Studio 2017 Tools for Unity"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name59",
+            "Value": "Windows SDK for Windows Store Apps"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name60",
+            "Value": "Windows SDK for Windows Store Apps DirectX x86 Remote"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name61",
+            "Value": "vs_filehandler_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name62",
+            "Value": "Windows SDK Desktop Libs arm"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name63",
+            "Value": "Citrix Authentication Manager"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name64",
+            "Value": "Windows SDK Desktop Headers x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name65",
+            "Value": "Microsoft Visual Studio Setup Configuration"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name66",
+            "Value": "Microsoft-System-CLR-Typen für SQL Server vNext CTP1.6"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name67",
+            "Value": "Kits Configuration Installer"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name68",
+            "Value": "Microsoft .NET Framework 4.6 Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name69",
+            "Value": "Windows SDK EULA"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name70",
+            "Value": "Microsoft .NET Framework 4.6.1 SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name71",
+            "Value": "Windows SDK Desktop Libs arm"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name72",
+            "Value": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name73",
+            "Value": "Windows SDK AddOn"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name74",
+            "Value": "Windows SDK for Windows Store Apps Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name75",
+            "Value": "ScanSnap Manager"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name76",
+            "Value": "WinRT Intellisense Desktop - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name77",
+            "Value": "Windows SDK Desktop Tools arm64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name78",
+            "Value": "vs_minshellinteropmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name79",
+            "Value": "Windows Team Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name80",
+            "Value": "TypeScript SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name81",
+            "Value": "Win32DiskImager version 1.0.0"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name82",
+            "Value": "Windows SDK Signing Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name83",
+            "Value": "TypeScript SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name84",
+            "Value": "Visual C++ Library CRT Desktop Appx Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name85",
+            "Value": "vs_codeduitestframeworkmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name86",
+            "Value": "Windows SDK Desktop Headers arm64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name87",
+            "Value": "Windows Desktop Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name88",
+            "Value": "Windows SDK for Windows Store Managed Apps Libs"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name89",
+            "Value": "Windows SDK Desktop Headers x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name90",
+            "Value": "Microsoft .NET CoreRuntime For CoreCon"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name91",
+            "Value": "Windows SDK Desktop Headers x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name92",
+            "Value": "Java Auto Updater"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name93",
+            "Value": "SDK ARM Redistributables"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name94",
+            "Value": "icecap_collectionresources"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name95",
+            "Value": "Kumulatives Microsoft .NET Framework Intellisense Pack für Visual Studio (Deutsch)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name96",
+            "Value": "Windows App Certification Kit SupportedApiList x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name97",
+            "Value": "Windows SDK Desktop Tools x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name98",
+            "Value": "Windows SDK Desktop Libs arm64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name99",
+            "Value": "vs_communitymsires"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name100",
+            "Value": "Microsoft .NET Framework 4.6.1 SDK (Deutsch)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name101",
+            "Value": "Citrix Receiver (HDX Flash-Umleitung)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name102",
+            "Value": "VS Immersive Activate Helper"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name103",
+            "Value": "Microsoft .NET Framework 4.7.1 Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name104",
+            "Value": "Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name105",
+            "Value": "Microsoft .NET Framework 4.5 Multi-Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name106",
+            "Value": "Windows SDK for Windows Store Apps Libs"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name107",
+            "Value": "vs_SQLClickOnceBootstrappermsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name108",
+            "Value": "TI-Nspire™ CX CAS Student Software"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name109",
+            "Value": "Windows SDK Signing Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name110",
+            "Value": "Windows IoT Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name111",
+            "Value": "Windows IoT Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name112",
+            "Value": "icecap_collectionresourcesx64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name113",
+            "Value": "Paket zur Festlegung von \"Doc Redirected\"-Zielversionen von Microsoft .NET Framework 4.7.1 (Deutsch)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name114",
+            "Value": "Online Plug-in"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name115",
+            "Value": "Citrix Receiver(Aero)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name116",
+            "Value": "WinRT Intellisense PPI - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name117",
+            "Value": "Universal CRT Redistributable"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name118",
+            "Value": "Windows Software Development Kit - Windows 10.0.17763.132"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name119",
+            "Value": "Google Update Helper"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name120",
+            "Value": "Windows Software Development Kit - Windows 10.0.16299.15"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name121",
+            "Value": "Microsoft_VC90_MFC_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name122",
+            "Value": "windows_toolscorepkg"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name123",
+            "Value": "Visual C++ Library CRT Appx Resource Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name124",
+            "Value": "vs_networkemulationmsi_x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name125",
+            "Value": "vs_minshellmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name126",
+            "Value": "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name127",
+            "Value": "vs_clickoncesigntoolmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name128",
+            "Value": "MSI Development Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name129",
+            "Value": "vs_enterprisemsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name130",
+            "Value": "Windows Mobile Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name131",
+            "Value": "Windows SDK Redistributables"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name132",
+            "Value": "WinAppDeploy"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name133",
+            "Value": "vs_communitymsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name134",
+            "Value": "Microsoft Visual C++ 2005 Redistributable"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name135",
+            "Value": "WinRT Intellisense IoT - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name136",
+            "Value": "Microsoft NetStandard SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name137",
+            "Value": "Windows App Certification Kit x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name138",
+            "Value": "WinRT Intellisense PPI - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name139",
+            "Value": "Windows SDK for Windows Store Apps Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name140",
+            "Value": "vcpp_crt.redist.clickonce"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name141",
+            "Value": "Windows SDK for Windows Store Apps Headers"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name142",
+            "Value": "Windows SDK Modern Versioned Developer Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name143",
+            "Value": "Universal CRT Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name144",
+            "Value": "WinRT Intellisense UAP - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name145",
+            "Value": "Windows Phone SDK 8.0 Assemblies for Visual Studio 2017"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name146",
+            "Value": "Microsoft Expression Encoder 4 Screen Capture Codec"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name147",
+            "Value": "WinRT Intellisense IoT - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name148",
+            "Value": "Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name149",
+            "Value": "Windows SDK Desktop Tools x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name150",
+            "Value": "Microsoft Portable Library Multi-Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name151",
+            "Value": "Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name152",
+            "Value": "Windows SDK Desktop Libs x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name153",
+            "Value": "Windows SDK Desktop Tools x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name154",
+            "Value": "WinRT Intellisense PPI - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name155",
+            "Value": "Windows Desktop Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name156",
+            "Value": "Visual C++ Library CRT Appx Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name157",
+            "Value": "vs_cuitextensionmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name158",
+            "Value": "Microsoft .NET Core SDK 2.1.505 (x64)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name159",
+            "Value": "Citrix Receiver (DV)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name160",
+            "Value": "Microsoft .NET Framework 4.6.1 Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name161",
+            "Value": "Stronghold Crusader Extreme"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name162",
+            "Value": "Windows IP Over USB"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name163",
+            "Value": "Microsoft Games for Windows - LIVE Redistributable"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name164",
+            "Value": "Office 16 Click-to-Run Extensibility Component"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name165",
+            "Value": "Office 16 Click-to-Run Localization Component"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name166",
+            "Value": "vs_clickoncebootstrappermsires"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name167",
+            "Value": "Windows SDK for Windows Store Apps DirectX x86 Remote"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name168",
+            "Value": "Microsoft_VC80_CRT_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name169",
+            "Value": "Windows Mobile Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name170",
+            "Value": "Windows Desktop Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name171",
+            "Value": "WinAppDeploy"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name172",
+            "Value": "Microsoft .NET Framework 3.5 Targeting Pack (deu)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name173",
+            "Value": "MSI Development Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name174",
+            "Value": "Citrix Receiver Inside"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name175",
+            "Value": "Windows SDK Desktop Headers arm64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name176",
+            "Value": "Windows SDK for Windows Store Managed Apps Libs"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name177",
+            "Value": "Windows SDK Desktop Tools arm64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name178",
+            "Value": "Visual C++ Library CRT Appx Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name179",
+            "Value": "Windows SDK for Windows Store Apps Metadata"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name180",
+            "Value": "Windows SDK EULA"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name181",
+            "Value": "vs_filehandler_amd64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name182",
+            "Value": "WinRT Intellisense PPI - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name183",
+            "Value": "icecap_collection_neutral"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name184",
+            "Value": "vs_FileTracker_Singleton"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name185",
+            "Value": "Windows Simulator - ENU"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name186",
+            "Value": "Microsoft .NET Native SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name187",
+            "Value": "Universal CRT Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name188",
+            "Value": "vs_clickoncebootstrappermsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name189",
+            "Value": "Windows SDK Desktop Libs arm64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name190",
+            "Value": "Windows Team Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name191",
+            "Value": "Universal CRT Redistributable"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name192",
+            "Value": "Microsoft TestPlatform SDK Local Feed"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name193",
+            "Value": "Windows IoT Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name194",
+            "Value": "IntelliTraceProfilerProxy"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name195",
+            "Value": "Windows SDK Desktop Libs x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name196",
+            "Value": "WinRT Intellisense UAP - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name197",
+            "Value": "TypeScript SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name198",
+            "Value": "Windows Team Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name199",
+            "Value": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name200",
+            "Value": "vs_codecoveragemsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name201",
+            "Value": "Windows Mobile Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name202",
+            "Value": "Microsoft ASP.NET Web Tools Packages 15.0 - ENU"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name203",
+            "Value": "Microsoft_VC90_MFCLOC_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name204",
+            "Value": "Universal CRT Headers Libraries and Sources"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name205",
+            "Value": "Entity Framework 6.2.0 Tools  for Visual Studio 2017"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name206",
+            "Value": "Windows SDK for Windows Store Apps Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name207",
+            "Value": "ScanSnap Organizer"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name208",
+            "Value": "WinRT Intellisense UAP - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name209",
+            "Value": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name210",
+            "Value": "Windows SDK Desktop Headers arm"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name211",
+            "Value": "vs_devenvmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name212",
+            "Value": "Microsoft .NET Core SDK - 2.1.104 (x64)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name213",
+            "Value": "Microsoft Expression Encoder 4"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name214",
+            "Value": "vs_professionalmsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name215",
+            "Value": "Windows SDK Modern Versioned Developer Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name216",
+            "Value": "Visual C++ Library CRT Desktop Appx Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name217",
+            "Value": "UC232A_Win 10_64bit"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name218",
+            "Value": "vs_BlendMsi"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name219",
+            "Value": "Self-Service Plug-in"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name220",
+            "Value": "Windows SDK Desktop Headers x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name221",
+            "Value": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name222",
+            "Value": "Windows SDK Facade Windows WinMD Versioned"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name223",
+            "Value": "Windows SDK for Windows Store Apps Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name224",
+            "Value": "Universal CRT Headers Libraries and Sources"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name225",
+            "Value": "Windows SDK ARM Desktop Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name226",
+            "Value": "Visual C++ Library CRT ARM64 Appx Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name227",
+            "Value": "Windows SDK Desktop Headers arm"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name228",
+            "Value": "WinRT Intellisense Mobile - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name229",
+            "Value": "Universal General MIDI DLS Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name230",
+            "Value": "TypeScript SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name231",
+            "Value": "Microsoft .NET Framework 4 Multi-Targeting Pack"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name232",
+            "Value": "Update for  (KB2504637)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name233",
+            "Value": "Visual C++ Library CRT ARM64 Appx Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name234",
+            "Value": "Microsoft_VC80_MFC_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name235",
+            "Value": "ClickOnce Bootstrapper Package for Microsoft .NET Framework"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name236",
+            "Value": "Universal General MIDI DLS Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name237",
+            "Value": "Universal CRT Tools x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name238",
+            "Value": "Microsoft Portable Library Multi-Targeting Pack Language Pack - deu"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name239",
+            "Value": "Windows SDK Desktop Libs x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name240",
+            "Value": "Windows 10-Update-Assistent"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name241",
+            "Value": "VS2013MergeModule"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name242",
+            "Value": "Windows Mobile Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name243",
+            "Value": "WinRT Intellisense Desktop - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name244",
+            "Value": "Microsoft_VC80_MFCLOC_x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name245",
+            "Value": "Windows SDK Desktop Libs x64"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name246",
+            "Value": "Windows SDK for Windows Store Apps Libs"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name247",
+            "Value": "ScanSnap Manager"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name248",
+            "Value": "Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name249",
+            "Value": "WinRT Intellisense IoT - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name250",
+            "Value": "ScanSnap Organizer"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name251",
+            "Value": "WinRT Intellisense Desktop - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name252",
+            "Value": "WinRT Intellisense IoT - Other Languages"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name253",
+            "Value": "Citrix Web Helper"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name254",
+            "Value": "Windows SDK ARM Desktop Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name255",
+            "Value": "Windows Desktop Extension SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name256",
+            "Value": "Windows SDK for Windows Store Apps Metadata"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name257",
+            "Value": "Windows SDK"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name258",
+            "Value": "Visual C++ Library CRT Desktop Appx Package"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name259",
+            "Value": "Citrix Receiver (USB)"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name260",
+            "Value": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name261",
+            "Value": "Intel(R) Processor Graphics"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name262",
+            "Value": "Windows Team Extension SDK Contracts"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name263",
+            "Value": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name264",
+            "Value": "WinRT Intellisense Mobile - en-us"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name265",
+            "Value": "Windows SDK Facade Windows WinMD Versioned"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name266",
+            "Value": "Windows SDK Desktop Tools x86"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name267",
+            "Value": "Windows SDK DirectX x86 Remote"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name268",
+            "Value": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name269",
+            "Value": "Microsoft Games for Windows - LIVE"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name270",
+            "Value": "Windows Simulator"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name271",
+            "Value": "ABBYY FineReader for ScanSnap (TM) 5.5"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name272",
+            "Value": "Windows SDK Modern Non-Versioned Developer Tools"
+          }
+        ]
+      },
+      {
+        "ItemType": "Software",
+        "Properties": [
+          {
+            "Name": "Name273",
+            "Value": "Microsoft ASP.NET Web Tools Packages 15.0 - DEU"
+          }
+        ]
+      }
+    ]
+  }
+]
